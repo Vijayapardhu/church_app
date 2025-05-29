@@ -1,0 +1,136 @@
+{
+  "project_info": {
+    "project_number": "30594640113",
+    "firebase_url": "https://testsocial-c1160-default-rtdb.firebaseio.com",
+    "project_id": "testsocial-c1160",
+    "storage_bucket": "testsocial-c1160.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:30594640113:android:6014d66ce45d25d72fe150",
+        "android_client_info": {
+          "package_name": "com.mvp.church_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "30594640113-4e1sjed4rs54a0lfh2a678nncllq007u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mvp.church_app",
+            "certificate_hash": "2bc54b2fdc17e0d71c63611b36ea9ea689b03fc9"
+          }
+        },
+        {
+          "client_id": "30594640113-3fpcdjjfb4qoil4m2bfi5mdueogcfgc7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDh5zn_it_IA8m96Y9QvZ3bQ-itUCkSwiQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "30594640113-3fpcdjjfb4qoil4m2bfi5mdueogcfgc7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "30594640113-ncno94rkf13ro15quk06gf0q9llnkleg.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mvp.churchApp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:30594640113:android:85a9a8997f8a2ed12fe150",
+        "android_client_info": {
+          "package_name": "com.mvp.church_app.debug"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "30594640113-npcp7pe9gd596o911k9j9tup3eo4ch52.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mvp.church_app.debug",
+            "certificate_hash": "2bc54b2fdc17e0d71c63611b36ea9ea689b03fc9"
+          }
+        },
+        {
+          "client_id": "30594640113-3fpcdjjfb4qoil4m2bfi5mdueogcfgc7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDh5zn_it_IA8m96Y9QvZ3bQ-itUCkSwiQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "30594640113-3fpcdjjfb4qoil4m2bfi5mdueogcfgc7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "30594640113-ncno94rkf13ro15quk06gf0q9llnkleg.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mvp.churchApp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:30594640113:android:44c0eed146eb59ca2fe150",
+        "android_client_info": {
+          "package_name": "com.mvp.testsocial"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "30594640113-3fpcdjjfb4qoil4m2bfi5mdueogcfgc7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDh5zn_it_IA8m96Y9QvZ3bQ-itUCkSwiQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "30594640113-3fpcdjjfb4qoil4m2bfi5mdueogcfgc7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "30594640113-ncno94rkf13ro15quk06gf0q9llnkleg.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mvp.churchApp"
+              }
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-6869370523169405~1980577027"
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,59 @@
+{
+  "flutter": {
+    "platforms": {
+      "android": {
+        "default": {
+          "projectId": "testsocial-c1160",
+          "appId": "1:30594640113:android:6014d66ce45d25d72fe150",
+          "fileOutput": "android/app/google-services.json"
+        }
+      },
+      "dart": {
+        "lib/firebase_options.dart": {
+          "projectId": "testsocial-c1160",
+          "configurations": {
+            "android": "1:30594640113:android:6014d66ce45d25d72fe150",
+            "ios": "1:30594640113:ios:56d410c21cd5f6382fe150",
+            "macos": "1:30594640113:ios:56d410c21cd5f6382fe150",
+            "web": "1:30594640113:web:bb645f2c36a059162fe150",
+            "windows": "1:30594640113:web:01db2a01b0d8b03f2fe150"
+          }
+        }
+      }
+    }
+  },
+  "firestore": {
+    "indexes": [
+      {
+        "collectionGroup": "prayers",
+        "queryScope": "COLLECTION",
+        "fields": [
+          {
+            "fieldPath": "status",
+            "order": "ASCENDING"
+          },
+          {
+            "fieldPath": "date",
+            "order": "DESCENDING"
+          }
+        ]
+      }
+    ]
+  },
+  "functions": [
+    {
+      "source": "functions",
+      "codebase": "default",
+      "ignore": [
+        "node_modules",
+        ".git",
+        "firebase-debug.log",
+        "firebase-debug.*.log",
+        "*.local"
+      ],
+      "predeploy": [
+        "npm --prefix \"$RESOURCE_DIR\" run lint"
+      ]
+    }
+  ]
+}
