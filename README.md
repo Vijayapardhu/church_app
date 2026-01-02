@@ -119,7 +119,7 @@ flutterfire configure
 The app icon is configured to use `assets/images/logo2.png`. To generate app icons:
 
 ```bash
-flutter pub run flutter_launcher_icons
+dart run flutter_launcher_icons
 ```
 
 ## 🎯 Running the App
